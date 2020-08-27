@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Trevor Banks' Programming Portfoilo
 
 You can use the [editor on GitHub](https://github.com/Trevor-Banks/programmingportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
